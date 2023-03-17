@@ -92,7 +92,7 @@
  }
  .boda-section {
    display: flex;
-   background-color: #0088cc;
+   background-color: #4dc3ff;
    margin-top: 50px;
    margin-bottom: 50px;
    margin-left: auto;
@@ -126,13 +126,22 @@
    height: 200px;
    float: left;
  }
- /* footer*/
+ /* page footer*/
 footer {
-   height: 135px;
+   height: 100px;
+   background-color: bisque;
+   padding-top: 22px;
 }
 .social-networks {
    text-align: center;
 }
-.social-networks li {
+.social-networks > li {
    display: inline;
+}
+.social-networks a {
+   font-size: 200%;
+   padding: 20px;
+   color: #4dc3ff;
+   margin: 20px;
+
 }
