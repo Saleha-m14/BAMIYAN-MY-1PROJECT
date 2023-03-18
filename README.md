@@ -78,49 +78,36 @@ Header With Webpage Name and Navigation Bar Section
 
 Home Page Main Image Section
 
-- 
+- This section shows the name of the place and country where it is located.
+- The image shows the historical Salsal Static.
+- This section also includes an h2 and p elements that declares what the webpage is about.
 
+Must See Places Section
 
-### Navigation:
-- the navigation link Visit Bamiyan, Afghanistan at the top left is linked to the web homepage.
-- The other links o the top right side are linked to home, must see places , things to do and contact.
-- The navigation menu shows the name of the website and other links that makes it easy for the user to access different section of the page.
+In this section, the most historical and beautiful places are added.
+This section contains two boxes, with an image, and a heading and paragraph.
+Buddhasas of Bamiyan
+  - In this part users will know Boddhas names, their heights, location,how old they are and the yeainon which they were destroyed.
+  - Image shows that Bodhas are carved in the hearth of the mountain.
 
-screenshot should be added
+- Band-e Amir National Park
 
-### Header:
-- The header shows the name of the place and country where it is located.
-- A short introduction which expresses that its natural view attracts the attention of every visitors.
-- An image of Bamiyan is added to it.
+In this part Band-e Amir dam is introduced as a tourist attraction.
+  - The pupose of this part is to let the users know what a beautiful place it is.
+  - In this part users will know that Band-e Amir dam is a tourist attraction, the national park consists of six lakes.
+  - Image shows the Band-e Amir dam view.
 
-screenshot should be added
-## Must See Places:
+Footer Section
 
-In this section the most historical and beautiful places are added.
+- Footer contains four social media links (Facehook, Twitter, Instagram and Youtube)
+- This section includes links that help users to access social medial platforms easily.
 
+# Technologies Used
+- HTML
+- CSS
 
-### Boddhas of Bamiyan:
-Bamiyan's two Boddhas are named Salsal and Shamama.
-- They are masterpieces of Buddhism.
-- Bodhas are carved in the hearth of mountain.
-- These two statues have been registered as wonders of the world by UNESCO.
-- They were destroyed by Taliban in 2001.
-
-### Band-e Amir National Park:
-Besides these two statues, Band Amir is also a tourist attraction.
-- Band-e Amir consists of six lakes.
-- named the first national park of Afghanistan in 2009.
-
-screenshot should be added 
-
-### Contact Information:
-This section enables users to communicate with me if further information is needed.
-- follow me on Instagram, Youtube, and Twitter.
-
-screenshot should be added
-
-### Testing
-### Bugs
-### Validator Testing
-### Deployment
+# Testing
+# Bugs
+# Validator Testing
+# Deployment
 

@@ -6,7 +6,6 @@
     border: none;
 }
 
-
  h1, h2, h4 {
    font-family: 'Barlow Condensed', sans-serif;
     text-transform: uppercase;
@@ -95,8 +94,8 @@
  }
  .boda-section {
    display: flex;
-   background-color: #4dc3ff;
    margin-top: 50px;
+   background-color: #4dc3ff;
    margin-bottom: 50px;
    margin-left: auto;
    margin-right: auto;
@@ -106,6 +105,7 @@
    height: 250px;
    
  }
+ 
  #boda-statics {
    font-size: 200%;
    text-decoration: underline;
@@ -113,6 +113,7 @@
    padding: 0;
   
  }
+ 
  h4 {
    color: #fff;
    font-size: 200%;
@@ -126,6 +127,33 @@
    text-align: justify;
    margin-right: 20px;
  }
+ /* Band-e Amir*/
+ #band-amir {
+  font-size: 200%;
+  text-decoration: underline;
+  margin: 0;
+  padding: 0;
+}
+ #band-text {
+  width: 40%;
+  height: 200px;
+  float: right;
+  margin-left: 20px;
+  margin-top: 15px;
+  text-align: justify;
+  margin-right: 20px;
+}
+
+#band-image {
+  width: 40%;
+  height: 200px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 5px;
+}
+
+
  #boda-image {
    width: 40%;
    height: 200px;
@@ -137,8 +165,7 @@
  /* page footer*/
 footer {
    height: 100px;
-   background-color: bisque;
-   padding-top: 22px;
+   padding-top: 23px;
 }
 .social-networks {
    text-align: center;
