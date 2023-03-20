@@ -1,8 +1,8 @@
 # Visit Bamiyan, Afghanistan
-The Bamiyan, Afghanistan website is designed for tourists who are interested in visiting historical places. Users of this website will be able to find all the needed information about Bamiyan. The must-see places, things to do in Bamiyan, contact information, and Social media links are added to this page.
+The Bamiyan, Afghanistan website is designed for tourists who are interested in visiting historical places. Users of this website will be able to find all the needed information about Bamiyan. The must-see places, contact information, and Social media links are added to this page.
 
 
-![This image shows that it is resposive to every device](assets/images/Boddha-image.jpg
+![This image shows that it is resposive to every device](
 )
 View Bamiyan, Afghanisatn webpage
 [Click Here](https://github.com)
@@ -52,7 +52,7 @@ Colors
 
 The color palette was created using [Coolors](https://coolors.co
 )
-![This image shows that it is resposive to every device](assets/images/colors.png
+![colors used](assets/images/readme-images/colors.png
 )
 
 
@@ -68,17 +68,21 @@ Images have been chosen according to color and content. The images have been siz
 The Bamiyan, Afghanistan webpage is a  webpage and a contact page.
 - Header(Navigation Bar)
 - Home Page Main Image
-- Must See Places
-- Things to do
+- Boddhas Statics
+- Band-e Amir Dam
 - Footer
+
 The navigation bar is on the top of the page to make it easier for the users to access differents sections of the page.
 
 # Existing Features
 
 Header With Webpage Name and Navigation Bar Section
+
 - The header consists of a Name section that is aligned to the left and Links that is aligned to the right.
 - The navigation bar includes links to the Home page, Best places, and Contact that allow users to access each of them easily.
 - The header is on the top of the page.
+
+![Navigation Menu](assets/images/readme-images/naivagation_menu.png)
 
 Home Page Main Image Section
 
@@ -86,15 +90,22 @@ Home Page Main Image Section
 - The image shows the historical Salsal Static.
 - This section also includes an h2 and p elements that declare what the webpage is about.
 
-Must See Places
+![Navigation Menu](assets/images/readme-images/first-section.png)
+
+# Must See Places
 
 In this part, the most historical and beautiful places are added.
-- Buddhasas of Bamiyan
+
+Buddhasas of Bamiyan
+![Navigation Menu](assets/images/readme-images/second-section.png)
+
   - This section contains two boxes, with an image, and a heading and paragraph.
   - In this section users will know Boddhas names, their heights, location,how old they are and the year which they were destroyed.
   - Image shows that Bodhas are carved in the hearth of the mountain.
 
 Band-e Amir National Park
+![Navigation Menu](assets/images/readme-images/third-section.png)
+
 
 In this part Band-e Amir dam is introduced as a tourist attraction.
   - This section contains a box, with an image, and a heading and paragraph.
@@ -102,7 +113,8 @@ In this part Band-e Amir dam is introduced as a tourist attraction.
   - In this part users will know that Band-e Amir dam is a tourist attraction, the national park consists of six lakes.
   - Image shows the Band-e Amir dam view.
 
-Footer Section
+Footer
+![Navigation Menu](assets/images/readme-images/footer.png)
 
 - Footer contains four social media links (Facehook, Twitter, Instagram and Youtube)
 - This section includes links that help users to access social medial platforms easily.
@@ -110,8 +122,27 @@ Footer Section
 # Technologies Used
 - HTML
 - CSS
+![Navigation Menu](assets/images/readme-images/languages.png)
+
 
 # Testing
+List of the main issues
+1. In the idex.html file the width of images for Boddhas and Band-e Amir section was set with percentage and while validating the code with W3C Validator it caused an error.
+- Solution: Removed the percentag and set the value with pixels.
+2. The color of heading was not visible.
+- Solution: Changed colors by using Coolers that match the whole page.
+3. 
+Apart from these issues that I mentioned there have been several minor issues. The majority of these issues have been due to miss spelled tags, attributes, closing tag, and other mistakes.
+
+Validator Testing
+- HTML
+- CSS
+
+  - No errors were when passing through the official[Jigsaw validator](https://jigsaw.w3.org/css-validator/validator#warnings)
+
+- lighthouse testing
+
+
 # Bugs
 # Validator Testing
 # Deployment
