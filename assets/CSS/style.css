@@ -5,7 +5,12 @@
     padding: 0;
     border: none;
 }
-
+body {
+  font-family: 'Barlow Condensed' sans-serif;
+  font-weight: 300;
+  color: #274C77;
+  background-color: #E7ECEF;
+}
  h1, h2, h4 {
    font-family: 'Barlow Condensed', sans-serif;
     text-transform: uppercase;
@@ -20,6 +25,9 @@
     margin-top: 20px;
  }
  /* Navigation links */
+ #page-header {
+  background-color: #A3CEF1;
+ }
   #links {
     font-size: 110%;
     letter-spacing: 4px;
@@ -36,6 +44,7 @@
  }
  #links a:hover {
     border-bottom: solid 1px black;
+    background-color: #A3CEF1;
 
  }
  .current-page {
@@ -52,9 +61,20 @@
    height: 680px;
    width: 100%;
    background: url('../images/Boddha-image.jpg') no-repeat center center;
+   animation-name: main-zoom;
+   animation-duration: 10s;
+   animation-fill-mode: forwards;
  }
+ /* main image animation*/
+ @keyframes main-zoom {
+  from{
+      transform: scale(1);
+  }
+  to{
+      transform: scale(1.1);
+  }
+}
 #cover-text h2 {
-   color: #fff;
    font-size: 250%;
    padding-bottom: 9px;
    
@@ -73,10 +93,9 @@
    padding-top: 20px;
    padding-left: 10px;
    padding-bottom: 20px;
-   background-color: rgba(26, 163, 225, 0.7);
-   color: #000;
+   background-color: rgba(96, 150, 186, 0.8);
    overflow: hidden;
-   border: 2px solid #004080;
+   border: 2px solid #274C77;
    border-radius: 8px;
    
    bottom: 30px;
@@ -84,18 +103,22 @@
    position: absolute;
 
  }
+ #cover-text > p {
+  font-size: 250%;
+  font-weight: bold;
+ }
  /* Must see places in Bamiyan*/
  #must-see-places {
    text-align: center;
-   color: #000;
    font-size: 245%;
+   clear: both;
    
 
  }
  .boda-section {
    display: flex;
    margin-top: 50px;
-   background-color: #4dc3ff;
+   background-color: ;
    margin-bottom: 50px;
    margin-left: auto;
    margin-right: auto;
@@ -103,21 +126,20 @@
    overflow: hidden;
    padding: 20px 15px 10px 10px;
    height: 250px;
+   height: 330px;
    
  }
  
  #boda-statics {
    font-size: 200%;
    text-decoration: underline;
+   color: #274C77;
    margin: 0;
    padding: 0;
+
   
  }
  
- h4 {
-   color: #fff;
-   font-size: 200%;
- }
  #boda-text {
    width: 40%;
    height: 200px;
@@ -131,6 +153,7 @@
  #band-amir {
   font-size: 200%;
   text-decoration: underline;
+  color: #274C77;
   margin: 0;
   padding: 0;
 }
@@ -149,7 +172,7 @@
   height: 200px;
   float: left;
   margin-left: 20px;
-  margin-right: 20px;
+  margin-right: 40px;
   margin-top: 5px;
 }
 
@@ -159,16 +182,22 @@
    height: 200px;
    float: left;
    margin-left: 20px;
-   margin-right: 20px;
+   margin-right: 40px;
    margin-top: 5px;
  }
  /* page footer*/
 footer {
    height: 100px;
    padding-top: 23px;
+   background-color: #A3CEF1;
+   
+  
 }
 .social-networks {
    text-align: center;
+   margin-top: 26px;
+
+   
 }
 .social-networks > li {
    display: inline;
@@ -176,7 +205,21 @@ footer {
 .social-networks a {
    font-size: 200%;
    padding: 20px;
-   color: #4dc3ff;
+   color: #274C77;
    margin: 20px;
+   
 
+}
+/* contact form*/
+#contact-form {
+  width: 100%;
+  height: 630px;
+  background: url('../images/bandamir.jpg') no-repeat center center;
+  
+}
+#form {
+  height: 400px;
+  width: 250px;
+  background-color: rgba(96, 150, 186, 0.8);
+  position: absolute;
 }

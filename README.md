@@ -2,7 +2,8 @@
 The Bamiyan, Afghanistan website is designed for tourists who are interested in visiting historical places. Users of this website will be able to find all the needed information about Bamiyan. The must-see places, things to do in Bamiyan, contact information, and Social media links are added to this page.
 
 
-![This image shows that it is resposive to every device](assets/images/Boddha-image.jpg)
+![This image shows that it is resposive to every device](assets/images/Boddha-image.jpg
+)
 View Bamiyan, Afghanisatn webpage
 [Click Here](https://github.com)
 
@@ -21,9 +22,8 @@ View Bamiyan, Afghanisatn webpage
     - Header With Webpage Name and Navigation Bar Section
     - Home Page Main Image Section
     - Must See Places Section
-      - Boda Statics
-      - Band-e Amir
-    - Things to Do Section
+    - Boda Statics
+    - Band-e Amir
     - Footer Section
 - Technologies Used
 - Testing
@@ -50,18 +50,22 @@ The navigation menu is on the top of the webpage and the website is devided into
 
 Colors
 
-The color palette was created using ....
+The color palette was created using [Coolors](https://coolors.co
+)
+![This image shows that it is resposive to every device](assets/images/colors.png
+)
+
 
 Typography 
 
-The Barlow Condensed was is chosen as the main font with a fallback of sans-serif.
+The [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed) was is chosen as the main font with a fallback of sans-serif. The font-weight of 300 is used.
 
 Images 
 
-Images have been chosen according to color and content. The images have been sized to match the design of the page.
+Images have been chosen according to color and content. The images have been sized to match the design of the page. Images that are used in this webpage was taken from [google/Bamiyan images](https://www.google.com/search?q=bamyan+province&rlz=1C1GCEO_enDE1038DE1038&sxsrf=AJOqlzXR9617eb_IUbHaqAuZN_z1Y2-wVQ:1679244354676&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigmoHauOj9AhU6RPEDHerkBWcQ_AUoAXoECAEQAw&biw=1280&bih=544&dpr=1.5)
 
 # Features
-The Bamiyan, Afghanistan webpage is a two webpage and a contact page.
+The Bamiyan, Afghanistan webpage is a  webpage and a contact page.
 - Header(Navigation Bar)
 - Home Page Main Image
 - Must See Places
@@ -80,19 +84,20 @@ Home Page Main Image Section
 
 - This section shows the name of the place and country where it is located.
 - The image shows the historical Salsal Static.
-- This section also includes an h2 and p elements that declares what the webpage is about.
+- This section also includes an h2 and p elements that declare what the webpage is about.
 
-Must See Places Section
+Must See Places
 
-In this section, the most historical and beautiful places are added.
-This section contains two boxes, with an image, and a heading and paragraph.
-Buddhasas of Bamiyan
-  - In this part users will know Boddhas names, their heights, location,how old they are and the yeainon which they were destroyed.
+In this part, the most historical and beautiful places are added.
+- Buddhasas of Bamiyan
+  - This section contains two boxes, with an image, and a heading and paragraph.
+  - In this section users will know Boddhas names, their heights, location,how old they are and the year which they were destroyed.
   - Image shows that Bodhas are carved in the hearth of the mountain.
 
-- Band-e Amir National Park
+Band-e Amir National Park
 
 In this part Band-e Amir dam is introduced as a tourist attraction.
+  - This section contains a box, with an image, and a heading and paragraph.
   - The pupose of this part is to let the users know what a beautiful place it is.
   - In this part users will know that Band-e Amir dam is a tourist attraction, the national park consists of six lakes.
   - Image shows the Band-e Amir dam view.
