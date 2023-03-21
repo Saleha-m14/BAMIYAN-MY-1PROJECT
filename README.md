@@ -1,5 +1,5 @@
 # Visit Bamiyan, Afghanistan
-The Bamiyan, Afghanistan website is designed for tourists who are interested in visiting historical places. Users of this website will be able to find all the needed information about Bamiyan. The must-see places, contact information, and Social media links are added to this page.
+The Bamiyan, Afghanistan website is designed for tourists who are interested in visiting historical places. Users of this website will be able to find all the needed information about Bamiyan. The must-see places that are Boddhas Statics and Band-e Amir and also Social media links are added to this page.
 
 
 ![This image shows that it is resposive to every device](
@@ -79,10 +79,10 @@ The navigation bar is on the top of the page to make it easier for the users to 
 Header With Webpage Name and Navigation Bar Section
 
 - The header consists of a Name section that is aligned to the left and Links that is aligned to the right.
-- The navigation bar includes links to the Home page, Best places, and Contact that allow users to access each of them easily.
+- The navigation bar includes links to the Home page, Boddhas Statics, and Band-e Amir that allow users to access each of them easily.
 - The header is on the top of the page.
 
-![Navigation Menu](assets/images/readme-images/naivagation_menu.png)
+![Navigation Menu](assets/images/readme-images/naivgation-bar.png)
 
 Home Page Main Image Section
 
