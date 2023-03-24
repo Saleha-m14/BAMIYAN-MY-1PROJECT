@@ -202,6 +202,23 @@ body {
    margin-right: 40px;
    margin-top: 5px;
  }
+ @media screen and (max-width: 1200px) {
+  #Ssec-outer {
+    width: 65%;
+    height: 500px;
+    margin: 0 auto;
+  }
+  #must-see-places {
+    padding: 30 0;
+    margin: 0;
+  }
+  #boda-text, #boda-image {
+    width: 300;
+    float: left;
+    padding: 0;
+  }
+
+ }
  /* video*/
  #video {
   text-align: center;
