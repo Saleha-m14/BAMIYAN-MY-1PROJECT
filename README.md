@@ -1,6 +1,6 @@
 # Visit Bamiyan Afghanistan
 
-![This image shows that it is resposive to every device](
+![This image shows that it is resposive to every device](assets/images/readme-images/responsive.png
 )
 
 The Bamiyan, Afghanistan website is designed for tourists who are interested in visiting historical places. Users of this website will be able to find all the needed information about Bamiyan. The must-see places that are Boddhas Statics and Band-e Amir and also Social media links are added to this page.
@@ -35,7 +35,10 @@ https://saleha-m14.github.io/BAMIYAN-MY-1PROJECT/
 - [Testing](#testing "Testing")
   - [Validator Testing](#validator-testing "Validator Testing")
   - [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
-- [Deployment](#deployment "Deployment")
+- [Deployment \& Usage](#deployment--usage)
+  - [Remote Deployment](#remote-deployment)
+  - [How To Fork](#how-to-fork)
+  - [How To Clone](#how-to-clone)
 - [Media](#media "Media")
 
 ## UX
@@ -50,7 +53,7 @@ This website is dedicated to:
 
 ### Site Purpose
 
-The pupose of this webpage is to share information about this historical province that is located in Afghanistan. It is intact and has a natural apperance.
+The purpose of this webpage is to share information about this historical province that is located in Afghanistan. It is intact and has a natural appearance.
 
 ### Site Goal
 
@@ -115,7 +118,7 @@ The navigation bar is on the top of the page to make it easier for the users to 
 - The image shows the historical Salsal Static.
 - This section also includes an h2 and p elements that declare what the webpage is about.
 
-![Main Image](assets/images/readme-images/main-image.png)
+![Main Image](assets/images/readme-images/mainn-image.png)
 
 #### Buddhasas of Bamiyan
 
@@ -139,7 +142,9 @@ In this part Band-e Amir dam is introduced as a tourist attraction.
 
 #### Video
 
-In this section a video of the Bamiyan province of Afghanistan is added. In this video, users can see all the places that are introduced in this section. This video represents the natural view of Bamiyan.
+In this section, a video of the Bamiyan province of Afghanistan is added. In this video, users can see all the places that are introduced in this section. This video represents the natural view of Bamiyan.
+
+![Video of Bamiyan](assets/images/readme-images/video.png)
 
 #### Footer
 
@@ -167,7 +172,10 @@ List of the main issues:
 - Solution: Changed colors by using Coolers that match the whole page.
 3. There was an error that said the fourth section lacks heading.
 - Added heading and div to that section.
-4. 
+4. The second and third section of webpage was not responsive to smaller devices.
+- Solution: On the style.css media query was added to be responsive to smaller devices.
+5.
+
 Apart from these issues that I mentioned there have been several minor issues. The majority of these issues have been due to miss spelled tags, attributes, closing tag, and other mistakes.
 
 ### Validator Testing
@@ -182,18 +190,18 @@ Apart from these issues that I mentioned there have been several minor issues. T
 
 ![W3C CSS Validator](assets/images/readme-images/css-valid.png)
 
-
-  
-
 - lighthouse testing
+![lighthouse testing](assets/images/readme-images/lighthouse.png)
+
 
 ### Unfixed Bugs
-All bugs were fixed and added to testing.
+
+- All bugs were fixed and added to testing.
 
 ## Deployment & Usage
 
 ### Remote Deployment
-The site was deployed to GitHub pages. In order to deploy the website, the following steps were taken:
+The site was deployed to GitHub pages. To deploy the website, the following steps were taken:
 * In the GitHub repository, navigate to the Settings tab
 * On the left side menu, on the section Code and automation, click on Pages.
 * From the source section drop-down menu, select the Deploy from a branch.
