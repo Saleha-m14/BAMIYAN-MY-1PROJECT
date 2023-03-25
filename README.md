@@ -190,9 +190,33 @@ Apart from these issues that I mentioned there have been several minor issues. T
 ### Unfixed Bugs
 All bugs were fixed and added to testing.
 
-## Development and Deployment
+## Deployment & Usage
 
-The development environment used for this project was GitPod. To track the development stage and handle version control regular commits and pushes to GitHub has been conducted. The GitPod environment was created using a template provided by Code Institute.
+### Remote Deployment
+The site was deployed to GitHub pages. In order to deploy the website, the following steps were taken:
+* In the GitHub repository, navigate to the Settings tab
+* On the left side menu, on the section Code and automation, click on Pages.
+* From the source section drop-down menu, select the Deploy from a branch.
+* From the branch section drop-down menu, select main, right on the side select /root.
+* Once the the branch menus have been selected, github will create the page. It might take a few minutes. Once it is done a link will show up on the top of the page.
+
+### How To Fork
+To fork the repository:
+* Log in (or sign up) to [Github](https://github.com/).
+* Go to the repository for this project: [Fem Code](https://github.com/panzek/fem-code).
+* Click the Fork button in the top right corner.
+
+### How To Clone
+
+To clone the repository:
+* Log in (or sign up) to [Github](https://github.com/).
+* Go to the repository for this project: [Fem Code](https://github.com/panzek/fem-code).
+* Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+* Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+* Type 'git clone' into the terminal and then paste the link you copied in step 3.
+* Press enter.
+
+<br>
 
 The live version of the project is deployed at GitHub pages.
 
