@@ -192,7 +192,7 @@ Apart from these issues that I mentioned there have been several minor issues. T
 ![W3C CSS Validator](assets/images/readme-images/css-valid.png)
 
 - lighthouse testing
-![lighthouse testing](assets/images/readme-images/lighthouse.png)
+![lighthouse testing](assets/images/readme-images/lighthouse-testing.png)
 
 
 ### Unfixed Bugs
