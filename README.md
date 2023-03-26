@@ -152,7 +152,7 @@ In this section, a video of the Bamiyan province of Afghanistan is added. In thi
 
 - Footer contains three social media links (Facebook, Twitter, and Youtube)
 - This section includes links that help users to access social medial platforms easily.
-- The color of this section is completly different from other parts.
+- The color of this section is completely different from other parts.
 
 ### Technologies Used
 
@@ -172,9 +172,10 @@ List of the main issues:
 - Solution: Changed colors by using Coolers that match the whole page.
 3. There was an error that said the fourth section lacks heading.
 - Added heading and div to that section.
-4. The second and third section of webpage was not responsive to smaller devices.
-- Solution: On the style.css media query was added to be responsive to smaller devices.
-5.
+4. The second and third sections texts and images were not responsive to smaller devices.
+- Solution: On the style.css media query was added to be responsive to smaller devices. And the width and height was changed accordingly.
+5. The cover text on the first section of the page was disapperaring on the right side on the width of samller than 446px.
+- Solution: The bottom reduced to 105px, left to 94px.
 
 Apart from these issues that I mentioned there have been several minor issues. The majority of these issues have been due to miss spelled tags, attributes, closing tag, and other mistakes.
 
